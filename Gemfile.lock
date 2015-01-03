@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     encrypted_strings (0.3.3)
+    newrelic_rpm (3.9.9.275)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
@@ -16,4 +17,5 @@ PLATFORMS
 
 DEPENDENCIES
   encrypted_strings
+  newrelic_rpm
   sinatra
